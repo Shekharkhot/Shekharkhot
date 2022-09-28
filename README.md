@@ -3,8 +3,16 @@ I'm Shekhar and I am a self-taught Python Fullstck Developer, still working on R
 - 🌱 I'm currently learning React!s
 - 💞️ I'm looking to collaborate on Full Stack Web Development
 - 👀 Aspiring Data Scientist
-- 📫 How to reach me shekarkhot2@gmail.com
 - ✨Extrovert
+- 📫 How to reach me 
+- shekarkhot2@gmail.com
+- https://www.linkedin.com/in/shekhar-khot-92258b181
+
+- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shekharkhot&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shekharkhot&langs_count=5&theme=react)]()
+
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Shekharkhot)](https://github.com/Shekharkhot/github-contribution-stats/)
 <!---
 Shekharkhot/Shekharkhot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
